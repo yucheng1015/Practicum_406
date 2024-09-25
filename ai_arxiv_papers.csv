@@ -1,0 +1,181 @@
+Title,Summary,Authors
+Intersymbolic AI: Interlinking Symbolic AI and Subsymbolic AI,"  This perspective piece calls for the study of the new field of Intersymbolic
+AI, by which we mean the combination of symbolic AI, whose building blocks have
+inherent significance/meaning, with subsymbolic AI, whose entirety creates
+significance/effect despite the fact that individual building blocks escape
+meaning. Canonical kinds of symbolic AI are logic, games and planning.
+Canonical kinds of subsymbolic AI are (un)supervised machine and reinforcement
+learning. Intersymbolic AI interlinks the worlds of symbolic AI with its
+compositional symbolic significance and meaning and of subsymbolic AI with its
+summative significance or effect to enable culminations of insights from both
+worlds by going between and across symbolic AI insights with subsymbolic AI
+techniques that are being helped by symbolic AI principles. For example,
+Intersymbolic AI may start with symbolic AI to understand a dynamic system,
+continue with subsymbolic AI to learn its control, and end with symbolic AI to
+safely use the outcome of the learned subsymbolic AI controller in the dynamic
+system. The way Intersymbolic AI combines both symbolic and subsymbolic AI to
+increase the effectiveness of AI compared to either kind of AI alone is likened
+to the way that the combination of both conscious and subconscious thought
+increases the effectiveness of human thought compared to either kind of thought
+alone. Some successful contributions to the Intersymbolic AI paradigm are
+surveyed here but many more are considered possible by advancing Intersymbolic
+AI.
+",André Platzer
+"A Survey on Verification and Validation, Testing and Evaluations of
+  Neurosymbolic Artificial Intelligence","  Neurosymbolic artificial intelligence (AI) is an emerging branch of AI that
+combines the strengths of symbolic AI and sub-symbolic AI. A major drawback of
+sub-symbolic AI is that it acts as a ""black box"", meaning that predictions are
+difficult to explain, making the testing & evaluation (T&E) and validation &
+verification (V&V) processes of a system that uses sub-symbolic AI a challenge.
+Since neurosymbolic AI combines the advantages of both symbolic and
+sub-symbolic AI, this survey explores how neurosymbolic applications can ease
+the V&V process. This survey considers two taxonomies of neurosymbolic AI,
+evaluates them, and analyzes which algorithms are commonly used as the symbolic
+and sub-symbolic components in current applications. Additionally, an overview
+of current techniques for the T&E and V&V processes of these components is
+provided. Furthermore, it is investigated how the symbolic part is used for T&E
+and V&V purposes in current neurosymbolic applications. Our research shows that
+neurosymbolic AI as great potential to ease the T&E and V&V processes of
+sub-symbolic AI by leveraging the possibilities of symbolic AI. Additionally,
+the applicability of current T&E and V&V methods to neurosymbolic AI is
+assessed, and how different neurosymbolic architectures can impact these
+methods is explored. It is found that current T&E and V&V techniques are partly
+sufficient to test, evaluate, verify, or validate the symbolic and sub-symbolic
+part of neurosymbolic applications independently, while some of them use
+approaches where current T&E and V&V methods are not applicable by default, and
+adjustments or even new approaches are needed. Our research shows that there is
+great potential in using symbolic AI to test, evaluate, verify, or validate the
+predictions of a sub-symbolic model, making neurosymbolic AI an interesting
+research direction for safe, secure, and trustworthy AI.
+","Justus Renkhoff, Ke Feng, Marc Meier-Doernberg, Alvaro Velasquez, Houbing Herbert Song"
+Neurosymbolic AI for Situated Language Understanding,"  In recent years, data-intensive AI, particularly the domain of natural
+language processing and understanding, has seen significant progress driven by
+the advent of large datasets and deep neural networks that have sidelined more
+classic AI approaches to the field. These systems can apparently demonstrate
+sophisticated linguistic understanding or generation capabilities, but often
+fail to transfer their skills to situations they have not encountered before.
+We argue that computational situated grounding provides a solution to some of
+these learning challenges by creating situational representations that both
+serve as a formal model of the salient phenomena, and contain rich amounts of
+exploitable, task-appropriate data for training new, flexible computational
+models. Our model reincorporates some ideas of classic AI into a framework of
+neurosymbolic intelligence, using multimodal contextual modeling of interactive
+situations, events, and object properties. We discuss how situated grounding
+provides diverse data and multiple levels of modeling for a variety of AI
+learning challenges, including learning how to interact with object
+affordances, learning semantics for novel structures and configurations, and
+transferring such learned knowledge to new objects and situations.
+","Nikhil Krishnaswamy, James Pustejovsky"
+"Re-imagining health and well-being in low resource African settings
+  using an augmented AI system and a 3D digital twin","  This paper discusses and explores the potential and relevance of recent
+developments in artificial intelligence (AI) and digital twins for health and
+well-being in low-resource African countries. We use the case of public health
+emergency response to disease outbreaks and epidemic control. There is
+potential to take advantage of the increasing availability of data and
+digitization to develop advanced AI methods for analysis and prediction. Using
+an AI systems perspective, we review emerging trends in AI systems and digital
+twins and propose an initial augmented AI system architecture to illustrate how
+an AI system can work with a 3D digital twin to address public health goals. We
+highlight scientific knowledge discovery, continual learning, pragmatic
+interoperability, and interactive explanation and decision-making as essential
+research challenges for AI systems and digital twins.
+","Deshendran Moodley, Christopher Seebregts"
+"Trustworthy, Responsible, and Safe AI: A Comprehensive Architectural
+  Framework for AI Safety with Challenges and Mitigations","  AI Safety is an emerging area of critical importance to the safe adoption and
+deployment of AI systems. With the rapid proliferation of AI and especially
+with the recent advancement of Generative AI (or GAI), the technology ecosystem
+behind the design, development, adoption, and deployment of AI systems has
+drastically changed, broadening the scope of AI Safety to address impacts on
+public safety and national security. In this paper, we propose a novel
+architectural framework for understanding and analyzing AI Safety; defining its
+characteristics from three perspectives: Trustworthy AI, Responsible AI, and
+Safe AI. We provide an extensive review of current research and advancements in
+AI safety from these perspectives, highlighting their key challenges and
+mitigation approaches. Through examples from state-of-the-art technologies,
+particularly Large Language Models (LLMs), we present innovative mechanism,
+methodologies, and techniques for designing and testing AI safety. Our goal is
+to promote advancement in AI safety research, and ultimately enhance people's
+trust in digital transformation.
+","Chen Chen, Ziyao Liu, Weifeng Jiang, Si Qi Goh, Kwok-Yan Lam"
+AI and Ethics -- Operationalising Responsible AI,"  In the last few years, AI continues demonstrating its positive impact on
+society while sometimes with ethically questionable consequences. Building and
+maintaining public trust in AI has been identified as the key to successful and
+sustainable innovation. This chapter discusses the challenges related to
+operationalizing ethical AI principles and presents an integrated view that
+covers high-level ethical AI principles, the general notion of
+trust/trustworthiness, and product/process support in the context of
+responsible AI, which helps improve both trust and trustworthiness of AI for a
+wider set of stakeholders.
+","Liming Zhu, Xiwei Xu, Qinghua Lu, Guido Governatori, Jon Whittle"
+"Retrieval-Augmented Generation for Generative Artificial Intelligence in
+  Medicine","  Generative artificial intelligence (AI) has brought revolutionary innovations
+in various fields, including medicine. However, it also exhibits limitations.
+In response, retrieval-augmented generation (RAG) provides a potential
+solution, enabling models to generate more accurate contents by leveraging the
+retrieval of external knowledge. With the rapid advancement of generative AI,
+RAG can pave the way for connecting this transformative technology with medical
+applications and is expected to bring innovations in equity, reliability, and
+personalization to health care.
+","Rui Yang, Yilin Ning, Emilia Keppo, Mingxuan Liu, Chuan Hong, Danielle S Bitterman, Jasmine Chiat Ling Ong, Daniel Shu Wei Ting, Nan Liu"
+"Creating a Gen-AI based Track and Trace Assistant MVP (SuperTracy) for
+  PostNL","  The developments in the field of generative AI has brought a lot of
+opportunities for companies, for instance to improve efficiency in customer
+service and automating tasks. PostNL, the biggest parcel and E-commerce
+corporation of the Netherlands wants to use generative AI to enhance the
+communication around track and trace of parcels. During the internship a
+Minimal Viable Product (MVP) is created to showcase the value of using
+generative AI technologies, to enhance parcel tracking, analyzing the parcel's
+journey and being able to communicate about it in an easy to understand manner.
+The primary goal was to develop an in-house LLM-based system, reducing
+dependency on external platforms and establishing the feasibility of a
+dedicated generative AI team within the company. This multi-agent LLM based
+system aimed to construct parcel journey stories and identify logistical
+disruptions with heightened efficiency and accuracy. The research involved
+deploying a sophisticated AI-driven communication system, employing
+Retrieval-Augmented Generation (RAG) for enhanced response precision, and
+optimizing large language models (LLMs) tailored to domain specific tasks.
+  The MVP successfully implemented a multi-agent open-source LLM system, called
+SuperTracy. SuperTracy is capable of autonomously managing a broad spectrum of
+user inquiries and improving internal knowledge handling. Results and
+evaluation demonstrated technological innovation and feasibility, notably in
+communication about the track and trace of a parcel, which exceeded initial
+expectations. These advancements highlight the potential of AI-driven solutions
+in logistics, suggesting many opportunities for further refinement and broader
+implementation within PostNL operational framework.
+",Mohammad Reshadati
+"Integrating Cognitive AI with Generative Models for Enhanced Question
+  Answering in Skill-based Learning","  In online learning, the ability to provide quick and accurate feedback to
+learners is crucial. In skill-based learning, learners need to understand the
+underlying concepts and mechanisms of a skill to be able to apply it
+effectively. While videos are a common tool in online learning, they cannot
+comprehend or assess the skills being taught. Additionally, while Generative AI
+methods are effective in searching and retrieving answers from a text corpus,
+it remains unclear whether these methods exhibit any true understanding. This
+limits their ability to provide explanations of skills or help with
+problem-solving. This paper proposes a novel approach that merges Cognitive AI
+and Generative AI to address these challenges. We employ a structured knowledge
+representation, the TMK (Task-Method-Knowledge) model, to encode skills taught
+in an online Knowledge-based AI course. Leveraging techniques such as Large
+Language Models, Chain-of-Thought, and Iterative Refinement, we outline a
+framework for generating reasoned explanations in response to learners'
+questions about skills.
+","Rochan H. Madhusudhana, Rahul K. Dass, Jeanette Luu, Ashok K. Goel"
+"Diversity is Strength: Mastering Football Full Game with Interactive
+  Reinforcement Learning of Multiple AIs","  Training AI with strong and rich strategies in multi-agent environments
+remains an important research topic in Deep Reinforcement Learning (DRL). The
+AI's strength is closely related to its diversity of strategies, and this
+relationship can guide us to train AI with both strong and rich strategies. To
+prove this point, we propose Diversity is Strength (DIS), a novel DRL training
+framework that can simultaneously train multiple kinds of AIs. These AIs are
+linked through an interconnected history model pool structure, which enhances
+their capabilities and strategy diversities. We also design a model evaluation
+and screening scheme to select the best models to enrich the model pool and
+obtain the final AI. The proposed training method provides diverse,
+generalizable, and strong AI strategies without using human data. We tested our
+method in an AI competition based on Google Research Football (GRF) and won the
+5v5 and 11v11 tracks. The method enables a GRF AI to have a high level on both
+5v5 and 11v11 tracks for the first time, which are under complex multi-agent
+environments. The behavior analysis shows that the trained AI has rich
+strategies, and the ablation experiments proved that the designed modules
+benefit the training process.
+","Chenglu Sun, Shuo Shen, Sijia Xu, Weidong Zhang"
