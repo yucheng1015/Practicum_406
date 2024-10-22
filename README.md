@@ -1,3 +1,4 @@
+![](https://github.com/yucheng1015/Practicum_406/blob/main/columbia%20logo.webp)
 # **Top 15 AI related paper** 
 <br>
 # **Objective**  <br>
