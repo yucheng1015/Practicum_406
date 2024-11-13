@@ -13,7 +13,7 @@ Each entry includes a brief summary, publication details, and direct links to th
 
 ---
 
-## 🏆 Top 10 AI Research Papers
+## 🏆 Top 15 AI Research Papers
 
 
 ### 1. Trustworthiness in Retrieval-Augmented Generation Systems: A Survey 📈
